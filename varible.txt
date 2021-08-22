@@ -1,0 +1,35 @@
+intergers  are whole numbers with out decimal ponit in the  = 10
+number with decimal are flots e.g 4.9
+we are learning about veriables, where we can get veriable by coding 
+print = 10 
+print(price) 
+and that will print 10.
+
+when adding more then one word as veriable alway us _ e,g is_published 
+
+price = 10
+rating = 4.9
+name = "dan"
+is_published = True
+print(price)
+
+ in part 2 
+ask asking to right 2 veriable, patients name, age, and if the patinet is new.
+
+name = "John smith"
+age = 20 
+is_new = True
+this is my work.
+
+
+we have now started to learn input, input is put in to coding when you want to add question  or in put data to save on to the program
+name = input("what is your name? ")
+print("Hi " + name)
+
+this program print ask for your name and will print saying hi and the name you have type in.]
+
+now have been asking to creat program person name and favourite color
+this was my color 
+name = input("what is your name? ")
+color = input("what is your favourite color? ")
+print(name + " likes " + color)
