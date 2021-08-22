@@ -1,0 +1,7 @@
+Note
+Date: 22:08:22/08
+started learning how to use print, print() and then read anything you want the program to say in python
+
+also learn how to times so print("*" * 10) = **********
+
+completed part 1 showing how to print is used in different ways.
